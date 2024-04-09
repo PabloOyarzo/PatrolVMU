@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LM358ST
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2022-08-29 12:30:32
+Downloaded=2024-04-08 23:57:43
+3D=Y

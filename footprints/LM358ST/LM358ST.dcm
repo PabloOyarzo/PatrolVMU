@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM358ST
+D Low-power dual op-amps with low input bias current
+K
+F https://www.st.com/resource/en/datasheet/lm158.pdf
+$ENDCMP
+#
+#End Doc Library
