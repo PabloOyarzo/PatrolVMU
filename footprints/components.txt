@@ -4,14 +4,14 @@ x	ESP32-S3-WROOM-1-N16R8		https://www.mouser.com/ProductDetail/Espressif-Systems
 Connector
 	OBD-2 Connector			https://www.snapeda.com/parts/C-OBD-II-16M/Comtech%20Electronic%20Co.,%20LTD/view-part/?company=b209&amp;welcome=home
 	 - USB-C Connector 6P		https://www.lcsc.com/product-detail/USB-Connectors_Yuandi-TYPE-602A-T3_C2689836.html
-		
+	
 Else
 	LM358 - OpAmp			https://www.mouser.com/ProductDetail/STMicroelectronics/LM358ST?qs=PFToyzIRtRHkOlg3W0t0FA%3D%3D
 	7805 - 5v Regulator		https://www.mouser.com/ProductDetail/Texas-Instruments/LM7805MP-NOPB?qs=gO6GG99qvRBdJUhXh1Qrhw%3D%3D
 	4060 - Carry Binary		https://www.mouser.com/ProductDetail/Texas-Instruments/CD4060BNSR?qs=LU5rZWrBGo3rlL%252BliYO71g%3D%3D
 	MAX232 - RS232			https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX232ECSE%2bT?qs=CDqwynd4ZNr3sT7RoID%252Bmw%3D%3D
 	BC549 - Transistor		https://www.mouser.com/ProductDetail/onsemi-Fairchild/BC549CTA?qs=UMEuL5FsraA9pebzi3Uf7w%3D%3D
-
+	BQ34Z110PW - Lead Acid Monitor	https://www.mouser.com/ProductDetail/Texas-Instruments/BQ34Z110PW?qs=4whTb%2F0XQMiAd21OC%252Bbr%2FA%3D%3D
 ---
 MX Keys
 x	MX key with Socket		https://github.com/daprice/keyswitches.pretty/tree/master
