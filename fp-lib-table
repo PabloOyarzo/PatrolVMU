@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "C-OBD-II-16M")(type "KiCad")(uri "${KIPRJMOD}/footprints/C-OBD-II-16M")(options "")(descr ""))
+)
