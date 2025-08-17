@@ -5,4 +5,6 @@
   (lib (name "4060")(type "KiCad")(uri "${KIPRJMOD}/footprints/CD4060BNSR/CD4060BNSR.kicad_sym")(options "")(descr ""))
   (lib (name "BQ34Z110PW")(type "KiCad")(uri "${KIPRJMOD}/footprints/BQ34Z110PW/BQ34Z110PW.kicad_sym")(options "")(descr ""))
   (lib (name "Waveshare-ESP32")(type "KiCad")(uri "${KIPRJMOD}/footprints/Waveshare-ESP32/Waveshare-ESP32.kicad_sym")(options "")(descr ""))
+  (lib (name "BC549CTA")(type "KiCad")(uri "${KIPRJMOD}/footprints/BC549CTA/BC549CTA.kicad_sym")(options "")(descr ""))
+  (lib (name "poka-yoke_rxtx")(type "KiCad")(uri "${KIPRJMOD}/footprints/poka-yoke_rxtx/poka-yoke_rxtx.kicad_sym")(options "")(descr ""))
 )

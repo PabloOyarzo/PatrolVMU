@@ -1,4 +1,9 @@
 (fp_lib_table
   (version 7)
   (lib (name "C-OBD-II-16M")(type "KiCad")(uri "${KIPRJMOD}/footprints/C-OBD-II-16M")(options "")(descr ""))
+  (lib (name "Waveshare-ESP32")(type "KiCad")(uri "${KIPRJMOD}/footprints/Waveshare-ESP32")(options "")(descr ""))
+  (lib (name "LM358ST")(type "KiCad")(uri "${KIPRJMOD}/footprints/LM358ST")(options "")(descr ""))
+  (lib (name "CD4060BNSR")(type "KiCad")(uri "${KIPRJMOD}/footprints/CD4060BNSR")(options "")(descr ""))
+  (lib (name "BC549CTA")(type "KiCad")(uri "${KIPRJMOD}/footprints/BC549CTA")(options "")(descr ""))
+  (lib (name "poka-yoke_rxtx")(type "KiCad")(uri "${KIPRJMOD}/footprints/poka-yoke_rxtx/poka-yoke_rxtx.pretty")(options "")(descr ""))
 )

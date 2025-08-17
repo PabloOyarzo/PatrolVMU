@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC549CTA
+D High Voltage VCEO=65V; Complement to BC556...BC560Switching and Amplifier; Low Noise: BC549,BC550
+K
+F https://www.onsemi.com/pub/Collateral/BC550-D.PDF
+$ENDCMP
+#
+#End Doc Library

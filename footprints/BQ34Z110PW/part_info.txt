@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=BQ34Z110PW
-PartCategory=Integrated Circuit
-PackageCategory=Small Outline Packages
-PinCount=14
-Version=1.1
-Released=2021-04-08 07:35:49
-Downloaded=2024-04-15 22:28:58
-3D=Y
